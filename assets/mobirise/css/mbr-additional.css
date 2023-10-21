@@ -1052,8 +1052,8 @@ a {
   text-align: center;
 }
 .cid-sFF75ZhH2d {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -1467,7 +1467,7 @@ a {
 }
 .cid-t0qyxll0QD {
   padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -1529,4 +1529,10 @@ a {
 .cid-t0qZQ5ZKaS [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
+}
+.cid-sFF3CYc3p7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
